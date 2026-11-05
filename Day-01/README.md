@@ -1,4 +1,4 @@
-# Day 01 – Linux User Management
+# Day 01 - Linux User Management
 
 ## Challenge Question
 
