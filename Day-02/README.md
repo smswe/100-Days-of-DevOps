@@ -1,4 +1,4 @@
-# Day 02 – Linux User Management: Account Expiry
+# Day 02 - Linux User Management: Account Expiry
 
 ## Challenge Question
 
