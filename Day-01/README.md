@@ -1,5 +1,3 @@
-Day-01/README.md
-
 # Day 01 – Linux User Management
 
 ## Challenge Question
