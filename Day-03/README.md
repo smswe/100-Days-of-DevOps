@@ -1,4 +1,4 @@
-# Day 03 – Linux Security: Disable Direct Root SSH Login
+# Day 03 - Linux Security: Disable Direct Root SSH Login
 
 ## Challenge Question
 
