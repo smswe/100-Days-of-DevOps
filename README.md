@@ -19,10 +19,10 @@ I'm documenting my hands-on learning experience through the **KodeKloud 100 Days
 
 | Day | Topic | Status |
 |---|---|---|
-| Day 01 | Linux – Create a User with a Non-Interactive Shell | Completed |
-| Day 02 | Linux – Create a User with an Expiry Date | Completed |
-| Day 03 | Linux – Disable Root SSH Login | Completed |
-| Day 04 | Linux – File Permissions and Executable Scripts | Completed |
+| Day 01 | Linux - Create a User with a Non-Interactive Shell | Completed |
+| Day 02 | Linux - Create a User with an Expiry Date | Completed |
+| Day 03 | Linux - Disable Root SSH Login | Completed |
+| Day 04 | Linux - File Permissions and Executable Scripts | Completed |
 
 ## 🎯 Goal
 
