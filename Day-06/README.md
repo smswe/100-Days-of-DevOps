@@ -1,4 +1,4 @@
-# Day 6 - Installing Cronie and Scheduling Cron Jobs on Multiple Servers
+# Day 06 - Installing Cronie and Scheduling Cron Jobs on Multiple Servers
 
 ## Task
 
