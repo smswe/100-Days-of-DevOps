@@ -23,8 +23,8 @@ I'm documenting my hands-on learning experience through the **KodeKloud 100 Days
 | Day 02 | Linux - Create a User with an Expiry Date | Completed |
 | Day 03 | Linux - Disable Root SSH Login | Completed |
 | Day 04 | Linux - File Permissions and Executable Scripts | Completed |
-| Day 05 | Linux - Install SELinux Packages and Disable SELinux	Completed |
-| Day 06 | Linux - Install Cronie and Configure Cron Jobs	Completed |
+| Day 05 | Linux - Install SELinux Packages and Disable SELinux	| Completed |
+| Day 06 | Linux - Install Cronie and Configure Cron Jobs |	Completed |
 
 ## 🎯 Goal
 
