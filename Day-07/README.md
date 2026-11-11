@@ -1,4 +1,4 @@
-# Day 7 - Configure Password-less SSH Authentication Between Jump Host and App Servers
+# Day 07 - Configure Password-less SSH Authentication Between Jump Host and App Servers
 
 ## Task
 
