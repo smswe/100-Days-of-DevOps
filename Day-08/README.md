@@ -1,4 +1,4 @@
-# Day 08 - Install Ansible 4.8.0 on Jump Host
+# Day 08 - Install Ansible 
 
 ## Task Description
 
