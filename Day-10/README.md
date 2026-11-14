@@ -675,47 +675,7 @@ Both files showed a size of 517 bytes.
 
 This task also helped me understand some common Linux command mistakes.
 
-### Issue 1 - Incorrect SSH hostname
-
-I initially typed:
-
-```bash
-ssh tony@atapp01
-```
-
-The hostname was incorrect.
-
-Correct command:
-
-```bash
-ssh tony@stapp01
-```
-
-**Learning:** Always verify hostnames before connecting to remote servers.
-
-### Issue 2 - Nano was not installed
-
-I tried:
-
-```bash
-nano /scripts/media_archive.sh
-```
-
-Output:
-
-```text
--bash: nano: command not found
-```
-
-I used `vi` instead:
-
-```bash
-vi /scripts/media_archive.sh
-```
-
-**Learning:** Not every Linux server has the same text editors installed. Knowing how to use `vi` is useful when working with minimal server environments.
-
-### Issue 3 - Missing space in chmod
+### Issue 1 - Missing space in chmod
 
 Incorrect command:
 
@@ -731,29 +691,7 @@ chmod +x /scripts/media_archive.sh
 
 **Learning:** Linux commands require correct spacing between the command, options, and arguments.
 
-### Issue 4 - Incorrect file path
-
-I accidentally entered:
-
-```bash
-ls -l /scripts/media)archive.sh
-```
-
-and:
-
-```bash
-ls -l /scripts/media/archive.sh
-```
-
-The correct path was:
-
-```bash
-ls -l /scripts/media_archive.sh
-```
-
-**Learning:** An underscore `_` in a filename is different from a slash `/`, which separates directories.
-
-### Issue 5 - Archive did not exist before script execution
+### Issue 2 - Archive did not exist before script execution
 
 Initially, I checked:
 
@@ -778,16 +716,6 @@ After running:
 the archive was created and transferred successfully.
 
 **Learning:** Creating a script does not automatically execute it. The script must be run to perform its tasks.
-
-### Issue 6 - SSH host key verification
-
-When I attempted to connect from App Server 1 to App Server 2, SSH displayed a host-key verification error because the host key was associated with another hostname in the known-hosts file.
-
-This connection was not required for Day 10. The actual task only needed App Server 1 and the Storage Server.
-
-**Learning:** Understand which servers are involved in a task before making unnecessary connections.
-
----
 
 ## 14. Important Linux and DevOps Concepts Learned
 
