@@ -27,6 +27,13 @@ I'm documenting my hands-on learning experience through the **KodeKloud 100 Days
 | Day 06 | Linux - Install Cronie and Configure Cron Jobs |	Completed |
 | Day 07 | Linux - Configure Passwordless SSH Authentication | Completed |
 | Day 08 | Ansible - Install Ansible 4.8.0 Using pip3       | Completed |
+| Day 09 | Linux - Troubleshoot and Start MariaDB Service | Completed |
+| Day 10 | Linux - Create a Bash Script to Archive Website Media | Completed |
+| Day 11 | Linux - Deploy and Configure Tomcat | Completed |
+| Day 12 | Linux - Troubleshoot Apache and Configure Firewall for Port 3003 | Completed |
+| Day 13 | Linux - Install and Configure iptables Firewall | Completed |
+| Day 14 | Linux - Troubleshoot Apache Service and Resolve Port Conflict | Completed |
+
 
 ## 🎯 Goal
 
